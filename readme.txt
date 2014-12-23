@@ -1,8 +1,8 @@
 === Basic Funding Tracker ===
 Contributors: celloexpressions
 Tags: widget, funding, sponsorship, fundraising
-Requires at least: 4.1
-Tested up to: 4.0
+Requires at least: 4.0
+Tested up to: 4.1
 Stable tag: 1.0
 Description: Simple widget that displays the current status of a fundraising goal.
 License: GPLv2
